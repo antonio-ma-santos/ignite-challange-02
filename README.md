@@ -19,6 +19,7 @@ O desafio consistia em componentizar a aplicação e utilizar o conceito de elev
 - [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Axios](https://axios-http.com/ptbr/docs/intro)
+- [SASS](https://sass-lang.com/documentation/)
 
 ## :closed_book: Como usar? ##
 
